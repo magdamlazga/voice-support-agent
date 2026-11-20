@@ -1,6 +1,10 @@
-# Voice Support Agent
+# E-commerce Voice Support Agent
 
 A proof of concept for an **AI phone agent for customer support**: you talk to it, it understands you, it looks up your order and takes real actions in a database, and it answers out loud.
+
+> This project focuses on the agent itself. For a full deployment around a voice agent (design document, system
+> integrations, German and English, simulated callers and a go-live report), see
+> [insurance-voice-agent-deployment](https://github.com/magdamlazga/insurance-voice-agent-deployment).
 
 ```
  🎤 customer speaks

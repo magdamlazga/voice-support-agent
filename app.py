@@ -25,7 +25,7 @@ TRANSCRIBE_MODEL = "gpt-4o-transcribe"
 TTS_MODEL = "gpt-4o-mini-tts"
 VOICES = ["coral", "alloy", "onyx", "nova", "sage", "shimmer"]
 
-AUDIO_DIR = Path(tempfile.gettempdir()) / "voice_support_agent"
+AUDIO_DIR = Path(tempfile.gettempdir()) / "ecommerce_voice_support_agent"
 AUDIO_DIR.mkdir(exist_ok=True)
 
 SYSTEM_PROMPT = f"""
